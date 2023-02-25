@@ -1,0 +1,1 @@
+# chorme_extension_equalizer
